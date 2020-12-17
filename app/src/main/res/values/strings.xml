@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Social</string>
+    <string name="textview">TextView</string>
+    <string name="email_address">Email Address :</string>
+    <string name="last_name">Last Name :</string>
+    <string name="first_name">First Name :</string>
+    <string name="user_details">User Details</string>
+    <string name="todo">TODO</string>
+    <string name="login_signup">Social Login</string>
+    <string name="facebook_app_id">441595920562290</string>
+    <string name="fb_login_protocol_scheme">fb441595920562290</string>
+    <string name="sign_in_with_facebook">Sign in with facebook</string>
+    <string name="sign_in_with_linkedin">Sign in with LinkedIn</string>
+</resources>
